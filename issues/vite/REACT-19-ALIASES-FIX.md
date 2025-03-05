@@ -104,13 +104,13 @@ const App = () => {
   )
 };
 ```
-### 2. Instalar `vite-tsconfig-paths`
+### 2. Instalar `vite-aliases`
 
 Ejecuta el siguiente comando para instalar el paquete necesario:
 
 ```sh
 # Usando npm
-npm i -D vite-tsconfig-paths
+npm i -D vite-aliases
 ```
 
 ### 3. Modificar `vite.config.js`
