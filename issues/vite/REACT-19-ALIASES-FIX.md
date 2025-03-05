@@ -17,10 +17,10 @@ Asegúrate de que tu archivo `jsconfig.json` contenga las configuraciones adecua
     ],
     "paths": {
       "@app": [
-        "App.jsx"
+        "src/App.jsx"
       ],
       "@router": [
-        "router.jsx"
+        "src/router.jsx"
       ],
       "@*": [
         "src/*"
