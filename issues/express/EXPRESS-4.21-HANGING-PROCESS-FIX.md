@@ -18,7 +18,7 @@ Ejemplo en el archivo package.json
 
 ```json
 "lint-staged": {
-  "*.{js,ts}": [
+  "**/*.{js,ts}": [
     "npx previous command",
     "npx c8 node --import ./test/setupTest.js --test"
   ]
